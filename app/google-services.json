@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175962648746",
+    "firebase_url": "https://peng-4e962.firebaseio.com",
+    "project_id": "peng-4e962",
+    "storage_bucket": "peng-4e962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175962648746:android:1e9aa99756c64ec6e3a0d3",
+        "android_client_info": {
+          "package_name": "com.example.peng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175962648746-18p78av38a1hmpsfi4t4aebt5ehqvu6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peng",
+            "certificate_hash": "0aa5f0722baf88822d9e50e31dc711a2d8954eb0"
+          }
+        },
+        {
+          "client_id": "175962648746-vbm8td776c7pibj999uml18ucro134qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuD0UjnTA_2MhIuMZkuFd423kaa1AL1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175962648746-vbm8td776c7pibj999uml18ucro134qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
